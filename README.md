@@ -1,5 +1,7 @@
 # 14반 CS 스터디
 
+> Since 2023.02.10
+
 ### 🙌 Collaborators
 
 <table>
