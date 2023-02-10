@@ -10,6 +10,6 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 1차시 | Introduction to Operating Systems | | [링크]() |
-| 2차시 | System Structure & Program Execution | | [링크]() |
-| 3차시 | Process | | [링크]() |
+| 1차시 | Introduction to Operating Systems | [선형]() / [남곤]() | [링크]() |
+| 2차시 | System Structure & Program Execution | [미혜]() / [예은]() | [링크]() |
+| 3차시 | Process | [승아]() / [채림]() | [링크]() |
