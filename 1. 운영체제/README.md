@@ -1,6 +1,6 @@
 # 운영체제
 
-> 매주 3차시씩 강의를 보고 공부합니다.
+> 매주 2차시씩 강의를 보고 공부합니다.
 
 _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
@@ -10,6 +10,5 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 1차시 | Introduction to Operating Systems | [선형]() / [남곤]() | [링크]() |
-| 2차시 | System Structure & Program Execution | [미혜]() / [예은]() | [링크]() |
-| 3차시 | Process | [승아]() / [채림]() | [링크]() |
+| 1차시 | Introduction to Operating Systems | [선형]() / [승아]() / [남곤]() | [링크]() |
+| 2차시 | System Structure & Program Execution | [미혜]() / [예은]() / [채림]() | [링크]() |
