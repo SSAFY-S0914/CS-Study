@@ -18,4 +18,4 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
 | 3차시 | Process | [선형]() / [승아]() / [남곤]() | [링크]() |
-| 4차시 | Process Management | [미혜]() / [예은]() / [채림]() | [링크]() |
+| 4차시 | Process Management | [미혜]() / [예은](https://available-carol-098.notion.site/OS-8000e2989a5a46018a044b091afe6ca4) / [채림]() | [링크]() |
