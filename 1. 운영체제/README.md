@@ -24,5 +24,5 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 5차시 | CPU Scheduling |  | [링크]() |
-| 6차시 | Process Synchronization |  | [링크]() |
+| 5차시 | CPU Scheduling | [선형]() / [미혜]() / [채림]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/5%EC%A3%BC%EC%B0%A8.md) |
+| 6차시 | Process Synchronization | [승아]() / [남곤]() / [예은]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/6%EC%A3%BC%EC%B0%A8.md) |
