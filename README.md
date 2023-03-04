@@ -12,6 +12,11 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/yygs312">
+        <img src="https://github.com/yygs321.png" alt="" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/mihye126">
         <img src="https://github.com/mihye126.png" alt="배미혜" />
       </a>
@@ -41,6 +46,11 @@
     <td align="center">
       <a href="https://github.com/tjsguddl96">
         <b>김선형</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yygs312">
+        <b>박소민</b>
       </a>
     </td>
     <td align="center">
