@@ -12,7 +12,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yygs312">
+      <a href="https://github.com/yygs321">
         <img src="https://github.com/yygs321.png" alt="" />
       </a>
     </td>
@@ -49,7 +49,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yygs312">
+      <a href="https://github.com/yygs321">
         <b>박소민</b>
       </a>
     </td>
