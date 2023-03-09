@@ -32,4 +32,4 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
 | 7차시 | Deadlock | | [링크]() |
-| 8 | Memory Management | | [링크]() |
+| 8차시 | Memory Management | | [링크]() |
