@@ -31,5 +31,5 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 7차시 | Deadlocks | [남곤]() / [승아]() / [선형]() / [미혜]() | [링크]() |
+| 7차시 | Deadlocks | [남곤]() / [승아](https://substantial-radish-aee.notion.site/Deadlocks-6de4d02a8826470d87149b43a2eb3e08) / [선형]() / [미혜]() | [링크]() |
 | 8차시 | Memory Management | [채림]() / [소민]() / [예은]() | [링크]() |
