@@ -32,7 +32,7 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
 | 7차시 | Deadlocks | [남곤](https://ng-lee.notion.site/7-af15d01fc1c948819e8676d939e41b86) / [승아](https://substantial-radish-aee.notion.site/Deadlocks-6de4d02a8826470d87149b43a2eb3e08) / [선형](https://indecisive-phalange-003.notion.site/4-6e63455d885745119d45b9f528a89858) / [미혜]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/7%EC%A3%BC%EC%B0%A8.md) |
-| 8차시 | Memory Management | [채림]() / [소민]() / [예은](https://www.notion.so/OS-8000e2989a5a46018a044b091afe6ca4) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/8-1%EC%A3%BC%EC%B0%A8.md) |
+| 8차시 | Memory Management | [채림]() / [소민](https://www.notion.so/0315-5d59070b4feb4cdfa96e937bc93b601c?pvs=4) / [예은](https://www.notion.so/OS-8000e2989a5a46018a044b091afe6ca4) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/8-1%EC%A3%BC%EC%B0%A8.md) |
 
 #### ✔ 5주차 (3/16~3/22)
 
