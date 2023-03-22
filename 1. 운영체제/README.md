@@ -38,12 +38,12 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 8차시 | Memory Management | [승아](https://substantial-radish-aee.notion.site/Memory-Management-2-5892e0395a104d5ca25b57c68a9d4010) / [채림](https://tropical-border-e6f.notion.site/Memory-Management-3-4-9d3d753401d947cbb55cf4dbb08459cb) / [예은](https://available-carol-098.notion.site/OS-8000e2989a5a46018a044b091afe6ca4) / [미혜]() | [링크]() |
-| 9차시 | Virtual Memory | [남곤]() / [선형](https://indecisive-phalange-003.notion.site/5-b8c2c99f1d8a4ad990b8323f4d971786) / [소민]() | [링크]() |
+| 8차시 | Memory Management | [승아](https://substantial-radish-aee.notion.site/Memory-Management-2-5892e0395a104d5ca25b57c68a9d4010) / [채림](https://tropical-border-e6f.notion.site/Memory-Management-3-4-9d3d753401d947cbb55cf4dbb08459cb) / [예은](https://available-carol-098.notion.site/OS-8000e2989a5a46018a044b091afe6ca4) / [미혜]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/8-2%EC%A3%BC%EC%B0%A8.md) |
+| 9차시 | Virtual Memory | [남곤]() / [선형](https://indecisive-phalange-003.notion.site/5-b8c2c99f1d8a4ad990b8323f4d971786) / [소민]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/9%EC%A3%BC%EC%B0%A8.md) |
 
 #### ✔ 6주차 (3/23~3/29)
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 10차시 | File Systems | | [링크]() |
-| 11차시 | Disk Management and Scheduling | | [링크]() |
+| 10차시 | File Systems | | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/10%EC%A3%BC%EC%B0%A8.md) |
+| 11차시 | Disk Management and Scheduling | | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/11%EC%A3%BC%EC%B0%A8.md) |
