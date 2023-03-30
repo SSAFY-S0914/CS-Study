@@ -45,7 +45,7 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 10차시 | File Systems | [선형](https://indecisive-phalange-003.notion.site/6-ec6fa79ae40f4d2b99151060fe00814e) / [미혜]() / [소민](https://www.notion.so/0330-File-System-5e81d44dbd9b48e4b621960de44d7bf8) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/10%EC%A3%BC%EC%B0%A8.md) |
+| 10차시 | File Systems | [선형](https://indecisive-phalange-003.notion.site/6-ec6fa79ae40f4d2b99151060fe00814e) / [미혜]() / [소민](https://fluorescent-polka-59d.notion.site/0330-File-System-5e81d44dbd9b48e4b621960de44d7bf8) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/10%EC%A3%BC%EC%B0%A8.md) |
 | 11차시 | Disk Management and Scheduling | [남곤]() / [예은](https://available-carol-098.notion.site/Disk-Management-and-Scheduling-b73474bf0879472599be120329dceccb) / [승아](https://www.notion.so/Disk-Management-Scheduling-a8043a09f86b4401a189bb07e54d4597) / [채림](https://tropical-border-e6f.notion.site/11-568f3da752e945ec83a70585bc0255d6) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/11%EC%A3%BC%EC%B0%A8.md) |
 
 -끝-
