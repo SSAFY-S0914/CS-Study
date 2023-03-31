@@ -24,7 +24,7 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 5차시 | CPU Scheduling | [선형](https://indecisive-phalange-003.notion.site/1-86270d0b949c49ad801f79e894aa23db) / [미혜]() / [채림](https://tropical-border-e6f.notion.site/CPU-Scheduling-da4bcb439c81498bb41974f80c4264e0) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/5%EC%A3%BC%EC%B0%A8.md) |
+| 5차시 | CPU Scheduling | [선형](https://indecisive-phalange-003.notion.site/1-86270d0b949c49ad801f79e894aa23db) / [미혜](https://hye12.notion.site/CPU-Scheduling-9ed2478d8f244409a0608940972c96f4) / [채림](https://tropical-border-e6f.notion.site/CPU-Scheduling-da4bcb439c81498bb41974f80c4264e0) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/5%EC%A3%BC%EC%B0%A8.md) |
 | 6차시 | Process Synchronization | [승아](https://substantial-radish-aee.notion.site/Process-Synchronization-6654afcaa8d84502b2c36fd52e8ad197) / [남곤](https://ng-lee.notion.site/6-9a54aad1a85e4144a088d0b97f06a2b4) / [예은](https://available-carol-098.notion.site/Process-cc63b3fb31584971889892cf7951c195) / [소민](https://www.notion.so/0309-6c931d4f95da41b2824eea7c370ad014?pvs=4) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/6%EC%A3%BC%EC%B0%A8.md) |
 
 #### ✔ 4주차 (3/10~3/15)
@@ -38,14 +38,14 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)_
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 8차시 | Memory Management | [승아](https://substantial-radish-aee.notion.site/Memory-Management-2-5892e0395a104d5ca25b57c68a9d4010) / [채림](https://tropical-border-e6f.notion.site/Memory-Management-3-4-9d3d753401d947cbb55cf4dbb08459cb) / [예은](https://available-carol-098.notion.site/OS-8000e2989a5a46018a044b091afe6ca4) / [미혜]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/8-2%EC%A3%BC%EC%B0%A8.md) |
+| 8차시 | Memory Management | [승아](https://substantial-radish-aee.notion.site/Memory-Management-2-5892e0395a104d5ca25b57c68a9d4010) / [채림](https://tropical-border-e6f.notion.site/Memory-Management-3-4-9d3d753401d947cbb55cf4dbb08459cb) / [예은](https://available-carol-098.notion.site/OS-8000e2989a5a46018a044b091afe6ca4) / [미혜](https://hye12.notion.site/Memory-Management-64eb6ae0bb8b40aeb50af5dfcb41b90f) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/8-2%EC%A3%BC%EC%B0%A8.md) |
 | 9차시 | Virtual Memory | [남곤](https://ng-lee.notion.site/9-dbdf8d38102f489d86de6edd604f8446) / [선형](https://indecisive-phalange-003.notion.site/5-b8c2c99f1d8a4ad990b8323f4d971786) / [소민](https://fluorescent-polka-59d.notion.site/chap9-Virtual-Memory-7cf0f35294de4b9faa3e4669f859fda8) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/9%EC%A3%BC%EC%B0%A8.md) |
 
 #### ✔ 6주차 (3/23~3/29)
 
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 10차시 | File Systems | [선형](https://indecisive-phalange-003.notion.site/6-ec6fa79ae40f4d2b99151060fe00814e) / [미혜]() / [소민](https://fluorescent-polka-59d.notion.site/0330-File-System-5e81d44dbd9b48e4b621960de44d7bf8) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/10%EC%A3%BC%EC%B0%A8.md) |
+| 10차시 | File Systems | [선형](https://indecisive-phalange-003.notion.site/6-ec6fa79ae40f4d2b99151060fe00814e) / [미혜](https://hye12.notion.site/File-System-0a7b407f3d9d49fd887e0f956cdf48df) / [소민](https://fluorescent-polka-59d.notion.site/0330-File-System-5e81d44dbd9b48e4b621960de44d7bf8) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/10%EC%A3%BC%EC%B0%A8.md) |
 | 11차시 | Disk Management and Scheduling | [남곤](https://ng-lee.notion.site/11-517a52c7625c4246a39bf59f047772a7) / [예은](https://available-carol-098.notion.site/Disk-Management-and-Scheduling-b73474bf0879472599be120329dceccb) / [승아](https://www.notion.so/Disk-Management-Scheduling-a8043a09f86b4401a189bb07e54d4597) / [채림](https://tropical-border-e6f.notion.site/11-568f3da752e945ec83a70585bc0255d6) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/11%EC%A3%BC%EC%B0%A8.md) |
 
 -끝-
