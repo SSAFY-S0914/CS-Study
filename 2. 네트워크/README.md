@@ -30,5 +30,5 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)_
 | :-----: | :-----: | :-----: | :-----: | 
 | 9차시 | 네트워크계층1 | [미혜]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/9%EC%B0%A8%EC%8B%9C.md) |
 | 10차시 | 네트워크계층2 | [선형](https://indecisive-phalange-003.notion.site/a9e5193dd57545cea2d5b456bc30dbfe) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/10%EC%B0%A8%EC%8B%9C.md) |
-| 11차시 | 네트워크계층3 | [남곤]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/11%EC%B0%A8%EC%8B%9C.md) |
+| 11차시 | 네트워크계층3 | [남곤](https://ng-lee.notion.site/11-d34580d5d59a4571bd42f6c1e6aad0b8) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/11%EC%B0%A8%EC%8B%9C.md) |
 | 12차시 | 네트워크계층4 | [채림]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/12%EC%B0%A8%EC%8B%9C.md) |
