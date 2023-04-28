@@ -13,7 +13,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/yygs321">
-        <img src="https://github.com/yygs321.png" alt="" />
+        <img src="https://github.com/yygs321.png" alt="박소민" />
       </a>
     </td>
     <td align="center">
@@ -24,21 +24,6 @@
     <td align="center">
       <a href="https://github.com/SeungAh-Yoo99">
         <img src="https://github.com/SeungAh-Yoo99.png" alt="유승아" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ng-lee">
-        <img src="https://github.com/ng-lee.png" alt="이남곤" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/synodical">
-        <img src="https://github.com/synodical.png" alt="이예은" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chech2">
-        <img src="https://github.com/chech2.png" alt="이채림" />
       </a>
     </td>
   </tr>
@@ -63,6 +48,30 @@
         <b>유승아</b>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ng-lee">
+        <img src="https://github.com/ng-lee.png" alt="이남곤" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/synodical">
+        <img src="https://github.com/synodical.png" alt="이예은" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chech2">
+        <img src="https://github.com/chech2.png" alt="이채림" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juuyoungjeon">
+        <img src="https://github.com/juuyoungjeon.png" alt="전주영" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ng-lee">
         <b>이남곤</b>
@@ -76,6 +85,11 @@
     <td align="center">
       <a href="https://github.com/chech2">
         <b>이채림</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juuyoungjeon">
+        <b>전주영</b>
       </a>
     </td>
   </tr>
