@@ -38,6 +38,6 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)_
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
 | 13차시 | 네트워크계층5 | [채림]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/13%EC%B0%A8%EC%8B%9C.md) |
-| 14차시 | 네트워크계층6 | [남곤]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/14%EC%B0%A8%EC%8B%9C.md) |
+| 14차시 | 네트워크계층6 | [남곤](https://ng-lee.notion.site/14-f3a2b62fdb56468f94763c63463bf4d0) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/14%EC%B0%A8%EC%8B%9C.md) |
 | 15차시 | 링크계층1 | [선형](https://indecisive-phalange-003.notion.site/6b8b25e60dab4c02a5a5c5a82b546af5) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/15%EC%B0%A8%EC%8B%9C.md) |
 | 16차시 | 링크계층2 | [주영](https://tin-colossus-852.notion.site/16-2-fe85840c437444b792fef48a0d0d896f) | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/16%EC%B0%A8%EC%8B%9C.md) |
