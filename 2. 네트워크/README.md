@@ -47,6 +47,6 @@ _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)_
 | 차시 | 강의 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
 | 17차시 | 링크계층3 | [남곤]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/17%EC%B0%A8%EC%8B%9C.md) |
-| 18차시 | 무선이동네트워크1 | [주영]()  | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/18%EC%B0%A8%EC%8B%9C.md) |
+| 18차시 | 무선이동네트워크1 | [주영](https://tin-colossus-852.notion.site/18-1-6ef82550c27148c5a013b2cf113893e6)  | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/18%EC%B0%A8%EC%8B%9C.md) |
 | 19차시 | 무선이동네트워크2 | [채림]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/19%EC%B0%A8%EC%8B%9C.md) |
 | 20차시 | 무선이동네트워크3 | [선형]() | [링크](https://github.com/SSAFY-S0914/CS-Study/blob/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/20%EC%B0%A8%EC%8B%9C.md) |
