@@ -131,7 +131,7 @@
 
 - [운영체제](https://github.com/SSAFY-S0914/CS-Study/tree/main/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 - [네트워크](https://github.com/SSAFY-S0914/CS-Study/tree/main/2.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-- 데이터베이스
+- [데이터베이스](https://github.com/SSAFY-S0914/CS-Study/tree/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 
 ### 🚩 진행 방식
 
