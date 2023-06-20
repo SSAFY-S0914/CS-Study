@@ -94,6 +94,9 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/InHyeok-J">
+        <img src="https://github.com/InHyeok-J.png" alt="조인혁" />
+      </a>
     </td>
   </tr>
   <tr>
@@ -123,6 +126,9 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/InHyeok-J">
+        <b>조인혁</b>
+      </a>
     </td>
   </tr>
 </table>
