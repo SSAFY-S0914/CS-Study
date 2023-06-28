@@ -13,6 +13,6 @@
 #### ✔ 2주차 (6/23~6/29)
 | 목차 | 제목 | 정리 자료 공유 | 질문 공유 |
 | :-----: | :-----: | :-----: | :-----: | 
-| 4장 | 아키텍처 (4.2 InnoDB 스토리지 엔진 아키텍처) | [선형]() / [승규]() / [소민]() / [정원]() / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) <br/> [승아]() / [남곤]() / [예은]() / [채림]() / [주영]() / [인혁]() | [링크]() |
+| 4장 | 아키텍처 (4.2 InnoDB 스토리지 엔진 아키텍처) | [선형]() / [승규]() / [소민]() / [정원]() / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) <br/> [승아](https://substantial-radish-aee.notion.site/4-2-InnoDB-ef8e60ecba42424eb0ec620639c158cb?pvs=4) / [남곤]() / [예은]() / [채림]() / [주영]() / [인혁]() | [링크]() |
 | 4장 | 아키텍처 (4.3 MyISAM 스토리지 엔진 아키텍처) | [선형]() / [승규]() / [소민]() / [정원]() / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) <br/> [승아]() / [남곤]() / [예은]() / [채림]() / [주영]() / [인혁]() | [링크]() |
 | 4장 | 아키텍처 (4.4 MySQL 로그 파일) | [선형]() / [승규]() / [소민]() / [정원]() / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) <br/> [승아]() / [남곤]() / [예은]() / [채림]() / [주영]() / [인혁]() | [링크]() |
