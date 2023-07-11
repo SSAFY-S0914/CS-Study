@@ -4,6 +4,93 @@
 
 _[강의 바로가기](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)_
 
+### 참여자
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tjsguddl96">
+        <img src="https://github.com/tjsguddl96.png" alt="김선형" />   
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mihye126">
+        <img src="https://github.com/mihye126.png" alt="배미혜" />     
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SeungAh-Yoo99">
+        <img src="https://github.com/SeungAh-Yoo99.png" alt="유승아" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ng-lee">
+        <img src="https://github.com/ng-lee.png" alt="이남곤" />       
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tjsguddl96">
+        <b>김선형</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mihye126">
+        <b>배미혜</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SeungAh-Yoo99">
+        <b>유승아</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ng-lee">
+        <b>이남곤</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/synodical">
+        <img src="https://github.com/synodical.png" alt="이예은" />    
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chech2">
+        <img src="https://github.com/chech2.png" alt="이채림" />       
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juuyoungjeon">
+        <img src="https://github.com/juuyoungjeon.png" alt="전주영" />
+      </a>
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/synodical">
+        <b>이예은</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chech2">
+        <b>이채림</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juuyoungjeon">
+        <b>전주영</b>
+      </a>
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
+
 ### 진행 내역
 
 #### ✔ 1주차 (4/5~4/12)
