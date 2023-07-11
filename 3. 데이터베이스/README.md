@@ -3,6 +3,119 @@
 - [Real MySQL 8.0 (1권)](https://www.yes24.com/Product/Goods/103415627)를 이용하여 진행합니다.
 - 4, 5, 8, 9, 10장을 진행하면서 관련된 이론도 같이 공부합니다.
 
+### 참여자
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tjsguddl96">
+        <img src="https://github.com/tjsguddl96.png" alt="김선형" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pickac4rd">
+        <img src="https://github.com/pickac4rd.png" alt="김승규" /> 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yygs321">
+        <img src="https://github.com/yygs321.png" alt="박소민" />   
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Byungul">
+        <img src="https://github.com/Byungul.png" alt="변정원" />   
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yudaeun">
+        <img src="https://github.com/yudaeun.png" alt="유다은" />   
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tjsguddl96">
+        <b>김선형</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pickac4rd">
+        <b>김승규</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yygs321">
+        <b>박소민</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Byungul">
+        <b>변정원</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yudaeun">
+        <b>유다은</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SeungAh-Yoo99">
+        <img src="https://github.com/SeungAh-Yoo99.png" alt="유승아" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ng-lee">
+        <img src="https://github.com/ng-lee.png" alt="이남곤" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chech2">
+        <img src="https://github.com/chech2.png" alt="이채림" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juuyoungjeon">
+        <img src="https://github.com/juuyoungjeon.png" alt="전주영" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/InHyeok-J">
+        <img src="https://github.com/InHyeok-J.png" alt="조인혁" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SeungAh-Yoo99">
+        <b>유승아</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ng-lee">
+        <b>이남곤</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chech2">
+        <b>이채림</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juuyoungjeon">
+        <b>전주영</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/InHyeok-J">
+        <b>조인혁</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### 진행 내역
 
 #### ✔ 1주차 (6/16~6/22)
