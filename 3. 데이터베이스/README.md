@@ -20,7 +20,7 @@
 | 4장 아키텍처 | 4.3 MyISAM 스토리지 엔진 아키텍처 | [선형](https://indecisive-phalange-003.notion.site/4-3-MyISAM-c329d7936da341dc976d0da8a1637715?pvs=4) / [승규]() / [소민](https://fluorescent-polka-59d.notion.site/4-3-MyISAM-125f640415a74ea19735e38408ec67b3?pvs=4) / [정원](https://efficacious-pomelo-4e3.notion.site/4-3-MyISAM-4e1e319c56e94a248ec11d9070622f42?pvs=4) / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) / [승아](https://substantial-radish-aee.notion.site/4-3-MyISAM-30c8d06c297640cc873a29dc10a5de13?pvs=4) / [남곤](https://ng-lee.notion.site/4-3-MyISAM-a087b7643de644b0941fbc3cee7ad7b3?pvs=4) / [채림]() / [주영](https://tin-colossus-852.notion.site/4-3-MyISAM-a2fc6b787a8342a7a21ae9a9dd3335f3?pvs=4) / [인혁](https://peppered-viscount-bd6.notion.site/RealMySQL-4-2-Innodb-4-3-4-4-c0f673dc813342e19429988bc1b3c632?pvs=4) |
 | 4장 아키텍처 | 4.4 MySQL 로그 파일 | [선형](https://indecisive-phalange-003.notion.site/4-4-MySQL-b8a835f264854fb598a6c86ff195c4cf?pvs=4) / [승규]() / [소민](https://fluorescent-polka-59d.notion.site/4-4-MySQL-186dafad4e1443a9bcc2dda403ee9b88?pvs=4) / [정원](https://efficacious-pomelo-4e3.notion.site/4-4-MySQL-810a2a1e138f4874a6a07195e49a86bb?pvs=4) / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) / [승아](https://substantial-radish-aee.notion.site/4-4-MySQL-9fc0ed1a7ddb4548ad48092a238f1de3?pvs=4) / [남곤](https://ng-lee.notion.site/4-4-MySQL-0ed5007e5f744c76b00e35095b5cb4be?pvs=4) / [채림](https://tropical-border-e6f.notion.site/4-2-4-3-60ee790e75034c60adb434a60aa05f8d?pvs=4) / [주영](https://tin-colossus-852.notion.site/4-4-MySQL-f2f837ee4b8c4dfd864d6ffb58cddca8?pvs=4) / [인혁](https://peppered-viscount-bd6.notion.site/RealMySQL-4-2-Innodb-4-3-4-4-c0f673dc813342e19429988bc1b3c632?pvs=4) |
 
-- [2주차 질문 공유]()
+- [2주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/2%EC%A3%BC%EC%B0%A8.md)
 
 #### ✔ 3주차 (7/7~7/13)
 | 목차 | 제목 | 정리 자료 공유 |
@@ -30,5 +30,5 @@
 | 5장 트랜잭션과 잠금 | 5.3 InnoDB 스토리지 엔진 잠금 | [선형]() / [승규]() / [소민]() / [정원]() / [다은]() / [승아]() / [남곤]() / [채림]() / [주영]() / [인혁]() |
 | 5장 트랜잭션과 잠금 | 5.4 MySQL의 격리 수준 | [선형]() / [승규]() / [소민]() / [정원]() / [다은]() / [승아]() / [남곤]() / [채림]() / [주영]() / [인혁]() |
 
-- [3주차 질문 공유]()
+- [3주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/3%EC%A3%BC%EC%B0%A8.md)
 
