@@ -42,9 +42,9 @@
 
 | 목차 | 제목 | 정리 자료 공유 |
 | :-----: | :-----: | :-----: |
-| 8장 인덱스 | 8.1 디스크 읽기 방식 | [선형](https://indecisive-phalange-003.notion.site/8-1-ab9c0fc302f14e23bf1ed0f3ef69a6e8?pvs=4) / [승규]() / [소민]() / [다은]() / [승아]() / [남곤](https://ng-lee.notion.site/8-1-4ccbd201a6a441dda9df68e1f1b8ef06?pvs=4) / [주영]() / [인혁]() |
-| 8장 인덱스 | 8.2 인덱스란? | [선형](https://indecisive-phalange-003.notion.site/8-2-4d02cb1f066f4cc38b3efde8bb0c7612?pvs=4) / [승규]() / [소민]() / [다은]() / [승아]() / [남곤](https://ng-lee.notion.site/8-2-5ddb21cb1e5441b49c0b4d42ccb9ec17?pvs=4) / [주영]() / [인혁]() |
-| 8장 인덱스 | 8.3 B-Tree 인덱스 | [선형](https://indecisive-phalange-003.notion.site/8-3-B-Tree-567c981c2715440d8a7825b4a9684823?pvs=4) / [승규]() / [소민]() / [다은]() / [승아]() / [남곤](https://ng-lee.notion.site/8-3-B-Tree-65bb694d1bbe4c24ad90fd7403bcca06?pvs=4) / [주영]() / [인혁]() |
+| 8장 인덱스 | 8.1 디스크 읽기 방식 | [선형](https://indecisive-phalange-003.notion.site/8-1-ab9c0fc302f14e23bf1ed0f3ef69a6e8?pvs=4) / [승규]() / [소민]() / [다은]() / [승아](https://substantial-radish-aee.notion.site/8-3378128588da477a89d23c4f680510a6?pvs=4) / [남곤](https://ng-lee.notion.site/8-1-4ccbd201a6a441dda9df68e1f1b8ef06?pvs=4) / [주영]() / [인혁]() |
+| 8장 인덱스 | 8.2 인덱스란? | [선형](https://indecisive-phalange-003.notion.site/8-2-4d02cb1f066f4cc38b3efde8bb0c7612?pvs=4) / [승규]() / [소민]() / [다은]() / [승아](https://substantial-radish-aee.notion.site/8-3378128588da477a89d23c4f680510a6?pvs=4) / [남곤](https://ng-lee.notion.site/8-2-5ddb21cb1e5441b49c0b4d42ccb9ec17?pvs=4) / [주영]() / [인혁]() |
+| 8장 인덱스 | 8.3 B-Tree 인덱스 | [선형](https://indecisive-phalange-003.notion.site/8-3-B-Tree-567c981c2715440d8a7825b4a9684823?pvs=4) / [승규]() / [소민]() / [다은]() / [승아](https://substantial-radish-aee.notion.site/8-3378128588da477a89d23c4f680510a6?pvs=4) / [남곤](https://ng-lee.notion.site/8-3-B-Tree-65bb694d1bbe4c24ad90fd7403bcca06?pvs=4) / [주영]() / [인혁]() |
 
 - [4주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/4%EC%A3%BC%EC%B0%A8.md)
 
