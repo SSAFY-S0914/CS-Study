@@ -5,7 +5,7 @@
 
 ### 참여자
 
-- [김선형](https://github.com/tjsguddl96) / [김승규](https://github.com/pickac4rd) / [박소민](https://github.com/yygs321) / [변정원](https://github.com/Byungul) / [유다은](https://github.com/yudaeun) / [유승아](https://github.com/SeungAh-Yoo99) / [이남곤](https://github.com/ng-lee) / [이채림](https://github.com/chech2) / [전주영](https://github.com/juuyoungjeon) / [조인혁](https://github.com/InHyeok-J)
+- [김선형](https://github.com/tjsguddl96) / [김승규](https://github.com/pickac4rd) / [박소민](https://github.com/yygs321) /  [유다은](https://github.com/yudaeun) / [유승아](https://github.com/SeungAh-Yoo99) / [이남곤](https://github.com/ng-lee) / [전주영](https://github.com/juuyoungjeon) / [조인혁](https://github.com/InHyeok-J)
 
 ### 진행 내역
 
