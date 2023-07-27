@@ -18,6 +18,7 @@
 - [1주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/1%EC%A3%BC%EC%B0%A8.md)
 
 #### ✔ 2주차 (6/23~7/6)
+
 | 목차 | 제목 | 정리 자료 공유 |
 | :-----: | :-----: | :-----: |
 | 4장 아키텍처 | 4.2 InnoDB 스토리지 엔진 아키텍처 | [선형](https://indecisive-phalange-003.notion.site/4-2-InnoDB-4ba6640ab1544333a77af34569edc94e?pvs=4) / [승규](https://www.notion.so/4-96d38d1d028e4db39292000996f69800#62c685d157274837a494619fbece78b6) / [소민](https://fluorescent-polka-59d.notion.site/4-2-InnoDB-035ed0fa614541d28cb17d01281e2195?pvs=4) / [정원](https://efficacious-pomelo-4e3.notion.site/4-2-InnoDB-8cd4862357b24d7683ebcff3709ce42a?pvs=4) / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) / [승아](https://substantial-radish-aee.notion.site/4-2-InnoDB-ef8e60ecba42424eb0ec620639c158cb?pvs=4) / [남곤](https://ng-lee.notion.site/4-2-InnoDB-c805ccd738d1420981b7a5380c27b7ba?pvs=4) / [채림](https://tropical-border-e6f.notion.site/4-2-4-3-60ee790e75034c60adb434a60aa05f8d?pvs=4) / [주영](https://tin-colossus-852.notion.site/4-2-InnoDB-67fbe8b588ae401ab45f46f08545dad5?pvs=4) / [인혁](https://peppered-viscount-bd6.notion.site/RealMySQL-4-2-Innodb-4-3-4-4-c0f673dc813342e19429988bc1b3c632?pvs=4) |
@@ -27,6 +28,7 @@
 - [2주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/2%EC%A3%BC%EC%B0%A8.md)
 
 #### ✔ 3주차 (7/7~7/13)
+
 | 목차 | 제목 | 정리 자료 공유 |
 | :-----: | :-----: | :-----: |
 | 5장 트랜잭션과 잠금 | 5.1 트랜잭션 | [선형](https://indecisive-phalange-003.notion.site/5-1-c924bb0887e0485ebeee6d1b695f4026?pvs=4) / [승규](https://careful-fan-de2.notion.site/5-2090ba84d0bc479293cdca786053b34b?pvs=4) / [소민](https://fluorescent-polka-59d.notion.site/5-e68e3818278048079a48fd797fc40f3c?pvs=4) / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) / [승아](https://substantial-radish-aee.notion.site/5-530a3875fe764e739470e552b8ee2727?pvs=4) / [남곤](https://ng-lee.notion.site/5-1-e239b0d1a8f4432b864df1b34cc49b24?pvs=4) / [주영](https://tin-colossus-852.notion.site/5-d01dee0d36dc47b6975bdceafd001e00?pvs=4) / [인혁](https://peppered-viscount-bd6.notion.site/RealMySQL-5-43dafddbdf4041cdb91bf4dea091ad5d?pvs=4) |
@@ -36,12 +38,13 @@
 
 - [3주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/3%EC%A3%BC%EC%B0%A8.md)
 
-- #### ✔ 4주차 (7/14~7/27)
+#### ✔ 4주차 (7/14~7/27)
+
 | 목차 | 제목 | 정리 자료 공유 |
 | :-----: | :-----: | :-----: |
-| 8장 인덱스 | 8.1 디스크 읽기 방식 | [선형]() / [승규]() / [소민]() / [다은]() / [승아]() / [남곤]() / [주영]() / [인혁]() |
-| 8장 인덱스 | 8.2 인덱스란? | [선형]() / [승규]() / [소민]() / [다은]() / [승아]() / [남곤]() / [주영]() / [인혁]() |
-| 8장 인덱스 | 8.3 B-Tree 인덱스 | [선형]() / [승규]() / [소민]() / [다은]() / [승아]() / [남곤]() / [주영]() / [인혁]() |
+| 8장 인덱스 | 8.1 디스크 읽기 방식 | [선형]() / [승규]() / [소민]() / [다은]() / [승아]() / [남곤](https://ng-lee.notion.site/8-1-4ccbd201a6a441dda9df68e1f1b8ef06?pvs=4) / [주영]() / [인혁]() |
+| 8장 인덱스 | 8.2 인덱스란? | [선형]() / [승규]() / [소민]() / [다은]() / [승아]() / [남곤](https://ng-lee.notion.site/8-2-5ddb21cb1e5441b49c0b4d42ccb9ec17?pvs=4) / [주영]() / [인혁]() |
+| 8장 인덱스 | 8.3 B-Tree 인덱스 | [선형]() / [승규]() / [소민]() / [다은]() / [승아]() / [남곤](https://ng-lee.notion.site/8-3-B-Tree-65bb694d1bbe4c24ad90fd7403bcca06?pvs=4) / [주영]() / [인혁]() |
 
 - [4주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/4%EC%A3%BC%EC%B0%A8.md)
 
