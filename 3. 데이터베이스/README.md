@@ -52,7 +52,7 @@
 
 | 목차 | 제목 | 정리 자료 공유 |
 | :-----: | :-----: | :-----: |
-| 8장 인덱스 | 8.4 R-Tree 인덱스 ~ 8.10 외래키 | [선형](https://indecisive-phalange-003.notion.site/8-c28581a271f14b6e86ea1beaa6d61c32?pvs=4) [승규]() / [소민]() / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) / [승아](https://substantial-radish-aee.notion.site/8-3378128588da477a89d23c4f680510a6?pvs=4) / [남곤](https://ng-lee.notion.site/5-1f63d38fe7964f16bfd90506780f2b32?pvs=4) / [주영](https://tin-colossus-852.notion.site/8-f5c2b228f64141b6b5d7f602fed3e52c?pvs=4) / [인혁]() |
+| 8장 인덱스 | 8.4 R-Tree 인덱스 ~ 8.10 외래키 | [선형](https://indecisive-phalange-003.notion.site/8-c28581a271f14b6e86ea1beaa6d61c32?pvs=4) / [승규]() / [소민]() / [다은](https://livesonlyoneday.notion.site/REAL-MySQL-467401eaacfc4de3a4616e5e65b93431?pvs=4) / [승아](https://substantial-radish-aee.notion.site/8-3378128588da477a89d23c4f680510a6?pvs=4) / [남곤](https://ng-lee.notion.site/5-1f63d38fe7964f16bfd90506780f2b32?pvs=4) / [주영](https://tin-colossus-852.notion.site/8-f5c2b228f64141b6b5d7f602fed3e52c?pvs=4) / [인혁]() |
 
 - [5주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/5%EC%A3%BC%EC%B0%A8.md)
 
