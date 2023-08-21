@@ -64,3 +64,11 @@
 
 - [6주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/6%EC%A3%BC%EC%B0%A8.md)
 
+#### ✔ 7주차 (8/11~8/24)
+
+| 목차 | 제목 | 정리 자료 공유 |
+| :-----: | :-----: | :-----: |
+| 9장 옵티마이저와 힌트 | 9.3.1 옵티마이저 스위치 옵션 | [선형]() / [승규]() / [소민]() / [다은]() / [승아]() / [남곤]() / [주영]() / [인혁]() |
+
+- [6주차 질문 공유](https://github.com/SSAFY-S0914/CS-Study/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A7%88%EB%AC%B8%EB%AA%A9%EB%A1%9D/7%EC%A3%BC%EC%B0%A8.md)
+
