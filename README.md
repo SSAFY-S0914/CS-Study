@@ -10,8 +10,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pickac4rd">
-        <img src="https://github.com/pickac4rd.png" alt="김승규" />
+      <a href="https://github.com/sgkim6">
+        <img src="https://github.com/sgkim6.png" alt="김승규" />
       </a>
     </td>
     <td align="center">
