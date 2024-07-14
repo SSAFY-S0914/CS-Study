@@ -74,8 +74,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ng-lee">
-        <img src="https://github.com/ng-lee.png" alt="이남곤" />
+      <a href="https://github.com/namgons">
+        <img src="https://github.com/namgons.png" alt="이남곤" />
       </a>
     </td>
     <td align="center">
@@ -106,7 +106,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ng-lee">
+      <a href="https://github.com/namgons">
         <b>이남곤</b>
       </a>
     </td>
